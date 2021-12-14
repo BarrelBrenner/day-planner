@@ -8,4 +8,6 @@ not sure if any other functions need to be present here.
 
 any questions/concerns feel free to lemme know.
 
+Link: https://barrelbrenner.github.io/day-planner/
+
 thank you & take care.
